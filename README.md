@@ -3,4 +3,4 @@
 Aisya Aprilia Sari 
 21120122140108
 
-Penyelesaian problem pengujian yang memperoleh data terbatas dengan interpolasi menggunakan dua metode yaitu Polinom Langrange dan Polinom Newton.
+Penyelesaian problem pengujian yang memperoleh data terbatas dengan interpolasi menggunakan dua metode yaitu polinom Langrange dan polinom Newton.
